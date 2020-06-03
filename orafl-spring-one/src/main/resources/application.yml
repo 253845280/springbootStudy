@@ -1,0 +1,20 @@
+oraflemployee:
+    companyName: 一键启动
+    leader:
+        name: leader
+        position: 领导
+        subordinate:
+            - 张三
+            - 李四
+            - 王五
+            - 赵六
+    employees:
+        name: 关宏祥
+        sex: 男
+        skills:
+            springBoot: 深入了解
+            JVM: 调优分析
+            redis: 深入理解
+
+server:
+    port: 998
